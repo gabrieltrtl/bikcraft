@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Arial, Helvetica, sans-serif;
+}
+
+body {
+  color: #111111;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+ul {
+  list-style: none;
+}
+
+img[src$=".jpg"] {
+  border-radius: 4px;
+}
